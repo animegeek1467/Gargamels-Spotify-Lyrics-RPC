@@ -13,6 +13,12 @@ A Discord Rich Presence app that shows your current Spotify song and live synced
 7. Log into Spotify when your browser opens.
 8. Done.
 
+## Need Help?
+
+If something breaks, check:
+
+```txt
+TROUBLESHOOTING.md
 ---
 
 # Easy Guide
